@@ -24,6 +24,8 @@
         justify-content: center;
         align-items: center;
         width: 327px;
+        border-bottom-left-radius: 2%;
+        border-bottom-right-radius: 2%;
     }
 
     .flex {
